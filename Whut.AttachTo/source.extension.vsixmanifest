@@ -2,10 +2,10 @@
 
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="AttachTo-2017" Version="1.0.3" Language="en-US" Publisher="Whut,ziyasal,Shazwazza" />
+    <Identity Id="AttachTo-2017" Version="1.0.3" Language="en-US" Publisher="Whut,ziyasal,Shazwazza,Th3B0Y" />
     <DisplayName>AttachTo-2017</DisplayName>
     <Description>Adds "Attach to IIS/IIS Express/NUnit" commands to Tools menu. Every command can be hidden or assigned shortcut.</Description>
-    <MoreInfo>https://github.com/Shazwazza/AttachTo</MoreInfo>
+    <MoreInfo>https://github.com/brunoamancio/AttachTo</MoreInfo>
     <License>license.txt</License>
     <GettingStartedGuide>README.txt</GettingStartedGuide>
     <ReleaseNotes>Adds Attach to IIS/IIS Express/NUnit commands to Tools menu on VS 2017</ReleaseNotes>
